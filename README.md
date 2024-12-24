@@ -48,51 +48,8 @@ apt update && apt upgrade -y
 pkg install git
 pkg install python
 pip install requests
-git clone --depth=1 https://github.com/U7P4L-IN/TERMUX-SETUP.git
+git clone --depth=1 https://github.com/Siyam-404/TERMUX-SETUP.git
 cd TERMUX-SETUP
 python3 SET.py
 ```
-<p align="center"><img src="./image/carbon.png">
-
-</br><h2 align="left"><b>SCREENSHORTS : </b></h2>
-
-<p align="center"><img src="./image/demo1.jpg">
-<p align="center"><img src="./image/demo2.jpg">
-<p align="center"><img src="./image/demo3.png">
-<p align="center"><img src="./image/demo4.png">
-<p align="center"><img src="./image/demo5.png">
-<p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="200" height="80" src="https://i.imgur.com/N7AK7XY.png"></a></p>
-
-</br>
-
-### Languages :
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=TERMUX-SETUP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="100%"/>
-</p>
-
-
-# Report bugs
-If you notice issues while installing this tool or running this tool kindly mail to me at <a href="mailto: lisame0007@gmail.com">Gmail</a> or Open an issue via github.
-
-### Contributing
-Feel Free To Clone This Project. For Major Changes, Please Open An Issue First To Discuss What You Would Like To Change Or Add, Thank You!!.
-
-<h2 align="center">LICENSE</h2>
-
-**TERMUX-SETUP** Tools is released under the MIT license, which grants the following permissions:
-- Commercial use
-- Modification
-- Distribution
-- Patent use
-- Private use
-
-For more convoluted language, see the [LICENSE](/LICENSE).
-</br>
-
-<h5 align="center"><b>DESCRIPTION</b></h5>
-
-* ©️ Copyright Message
->> Copyright © [2023-27] [U7P4L-IN]
->All rights reserved. This Python project, along with its code, documentation, and any associated files, is the intellectual property of ANONYMOUS CYBER. You may not reproduce, distribute, or modify the contents of this repository without explicit permission from the owner.
-# Give A Star ⭐
-> You can also give this repository a star to show more people and they can use this repository.
+<p 
