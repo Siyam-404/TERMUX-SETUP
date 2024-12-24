@@ -1,18 +1,3 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=TERMUX%20SETUP&fontSize=90&animation=fadeIn&fontAlignY=38&desc=TERMUX%20BESIC%20MODULES%20or%20SETUP%20TOOLS%20BY%20U7P4L&descAlignY=51&descAlign=62" width="100%"/>
-</p>
-
-<p align="left">
-
->Tarmux Setup Is The Tool Of Tarmux Terminal, With Which You Can Setup All The Basic Package Modules Of Your Tarmux In One Command.
-
-</p>
-
-<p align="center">
-    <img alt="Version" src="https://img.shields.io/badge/Version-ALPHA-blue?style=for-the-badge&color=blue">
-    <img alt="Stars" src="https://img.shields.io/github/stars/U7P4L-IN/TERMUX-SETUP?style=for-the-badge&color=magenta">
-    <img alt="Forks" src="https://img.shields.io/github/forks/U7P4L-IN/TERMUX-SETUP?color=cyan&style=for-the-badge&color=red">
-    <img alt="License" src="https://img.shields.io/github/license/U7P4L-IN/TERMUX-SETUP?style=for-the-badge&color=green">
-</p>
 
 ## Why This Tool Only? ::
 
